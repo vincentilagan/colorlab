@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="dist/ColorLab.exe" download>
-    <img src="https://img.shields.io/badge/Download-ColorLab.exe-008080?style=for-the-badge&logo=windows&logoColor=FFFFFF&labelColor=FF6F00" alt="Download ColorLab EXE">
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/vincentilagan/colorlab">
     <img src="banner.png" alt="ColorLab Banner" width="800">
   </a>
@@ -29,19 +23,19 @@ With my film deadline coming up soon, I quickly built this to speed up my workfl
 
 ## How to use
 
-1. Select your **Target Image** (the look or color grade you want to match).  
-2. Select your **Source Image** (the original footage or photo you want to recolor).  
-3. Choose the **Output Folder** where the `.cube` LUT file will be saved.  
-4. Click **Generate LUT & Preview** to instantly see the effect applied to your source image.  
-5. Once satisfied, click **Save LUT** to export the `.cube` file.  
+1. Select your **Target Image** (the look or color grade you want to match).
+2. Select your **Source Image** (the original footage or photo you want to recolor).
+3. Choose the **Output Folder** where the `.cube` LUT file will be saved.
+4. Click **Generate LUT & Preview** to instantly see the effect applied to your source image.
+5. Once satisfied, click **Save LUT** to export the `.cube` file.
 6. Import the `.cube` LUT into After Effects, Premiere Pro, DaVinci Resolve, or any editor that supports LUTs.
 
 ---
 
 ## Notes
 
-- This tool was built quickly but is open to anyone who wants to improve or contribute.  
-- I hope this helps you in your creative projects and filmmaking.  
+- This tool was built quickly but is open to anyone who wants to improve or contribute.
+- I hope this helps you in your creative projects and filmmaking.
 - Feel free to send feedback or pull requests if you want to enhance it!
 
 ---
@@ -57,4 +51,6 @@ Thank you for using ColorLab!
 Here’s to making our films and creative works look even better!
 
 — Vincent Ilagan  
-FILM MAKER
+FILM MAKER /
+
+
