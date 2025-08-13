@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ColorLab - Cinematic LAB LUT Generator
 
 Hi! I’m Vincent Ilagan, a filmmaker and the creator of **ColorLab**.
@@ -44,3 +45,7 @@ Thank you for using ColorLab! Here’s to making our films and creative works lo
 — Vincent Ilagan  
 Filmmaker & Creator  
 2025
+=======
+# colorlab
+This tool uses the LAB color space for color transfer based on mean and standard deviation statistics of both target and source images. The color mapping uses a 3D LUT to apply this transfer, which can be imported into popular video editing and color grading software.
+>>>>>>> da1efe514a92dcd9ba5a0b3d698f43748872eced
