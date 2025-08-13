@@ -56,10 +56,10 @@ class LUTApp(tk.Tk):
         }
 
         # Buttons row
-        self.target_btn = tk.Button(self, text="Select TARGET Image", command=self.select_target, **button_style)
+        self.target_btn = tk.Button(self, text="Select TARGET COLOR", command=self.select_target, **button_style)
         self.target_btn.grid(row=0, column=0, sticky="ew", padx=10, pady=(15,5))
 
-        self.source_btn = tk.Button(self, text="Select SOURCE Image", command=self.select_source, **button_style)
+        self.source_btn = tk.Button(self, text="Select Target CLIP", command=self.select_source, **button_style)
         self.source_btn.grid(row=0, column=1, sticky="ew", padx=10, pady=(15,5))
 
         self.output_btn = tk.Button(self, text="Select OUTPUT Folder", command=self.select_output, **button_style)
@@ -71,10 +71,10 @@ class LUTApp(tk.Tk):
         self.gen_button.grid(row=0, column=3, sticky="ew", padx=10, pady=(15,5))
 
         # Labels row
-        self.target_label = tk.Label(self, text="No target image selected", **label_style)
+        self.target_label = tk.Label(self, text="No source color selected", **label_style)
         self.target_label.grid(row=1, column=0, sticky="ew", padx=10, pady=(0,5))
 
-        self.source_label = tk.Label(self, text="No source image selected", **label_style)
+        self.source_label = tk.Label(self, text="No source image-clip selected", **label_style)
         self.source_label.grid(row=1, column=1, sticky="ew", padx=10, pady=(0,5))
 
         self.output_label = tk.Label(self, text="No output folder selected", **label_style)
