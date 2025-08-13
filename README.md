@@ -1,4 +1,10 @@
 <p align="center">
+  <a href="dist/ColorLab.exe" download>
+    <img src="https://img.shields.io/badge/Download-ColorLab.exe-008080?style=for-the-badge&logo=windows&logoColor=FFFFFF&labelColor=FF6F00" alt="Download ColorLab EXE">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/vincentilagan/colorlab">
     <img src="banner.png" alt="ColorLab Banner" width="800">
   </a>
@@ -13,7 +19,7 @@ With my film deadline coming up soon, I quickly built this to speed up my workfl
 
 ---
 
-## Why I Created This
+## Why I created this
 
 - Easily apply custom cinematic color grading across different computers, especially when I’m away from my main setup.
 - Help other filmmakers and artists who want a simple tool to generate LUTs and preview color grading effects before saving.
@@ -21,57 +27,34 @@ With my film deadline coming up soon, I quickly built this to speed up my workfl
 
 ---
 
-## Installation
+## How to use
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/vincentilagan/colorlab.git
-cd colorlab
-```
-
-### 2️⃣ Install Dependencies
-Make sure you have **Python 3.8+** installed, then run:
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run ColorLab
-```bash
-python colorlab.py
-```
-
----
-
-## How to Use
-
-1. **Select Target Image** → The look or color grade you want to match.
-2. **Select Source Image** → The original footage or photo you want to recolor.
-3. **Choose Output Folder** → Where the `.cube` LUT file will be saved.
-4. **Click "Generate LUT & Preview"** → Instantly see the effect applied to your source image.
-5. **Click "Save LUT"** → Export the `.cube` file.
-6. Import the `.cube` LUT into **After Effects**, **Premiere Pro**, **DaVinci Resolve**, or any editor that supports LUTs.
+1. Select your **Target Image** (the look or color grade you want to match).  
+2. Select your **Source Image** (the original footage or photo you want to recolor).  
+3. Choose the **Output Folder** where the `.cube` LUT file will be saved.  
+4. Click **Generate LUT & Preview** to instantly see the effect applied to your source image.  
+5. Once satisfied, click **Save LUT** to export the `.cube` file.  
+6. Import the `.cube` LUT into After Effects, Premiere Pro, DaVinci Resolve, or any editor that supports LUTs.
 
 ---
 
 ## Notes
 
-- This tool was built quickly but is open to anyone who wants to improve or contribute.
-- I hope this helps you in your creative projects and filmmaking.
-- Feedback and pull requests are welcome!
+- This tool was built quickly but is open to anyone who wants to improve or contribute.  
+- I hope this helps you in your creative projects and filmmaking.  
+- Feel free to send feedback or pull requests if you want to enhance it!
 
 ---
 
 ## License
 
-Licensed under the **MIT License**.  
-You may use and modify this tool for personal or commercial projects as long as the copyright
-and license notices are included.
+Licensed under the MIT License.  
+You may use and modify this tool for personal or commercial projects as long as the copyright and license notices are included.
 
 ---
 
-**Thank you for using ColorLab!**  
-Here’s to making our films and creative works look even better.
+Thank you for using ColorLab!  
+Here’s to making our films and creative works look even better!
 
 — Vincent Ilagan  
-*Filmmaker & Creator*  
-2025
+FILM MAKER
