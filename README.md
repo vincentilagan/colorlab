@@ -51,5 +51,6 @@ Thank you for using ColorLab!
 Here’s to making our films and creative works look even better!
 
 — Vincent Ilagan  
-Filmmaker & Creator  
-2025
+FILM MAKER /
+
+
